@@ -6,7 +6,7 @@ int main()
     // printf("%d",2one);
 
     int value1 = 34;
-    printf("\n%d", value1);
+    printf("\n first = %d", value1);
 
     // int std grid = 45433;
     // printf("%d", std grid);
